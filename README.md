@@ -2,6 +2,12 @@
 Subject Name: Natural Langugae Processing; Subject Code: AI-2063; Subject Category Engineering Science Course (PCC)
 
 
+
+
+
+
+
+
 ## Prerequisites:👨‍💻
 Basic Knowledge of algorithms, Discrete Mathematics
 
@@ -32,3 +38,9 @@ to target language(s).
 
 
 <img width="865" alt="Screenshot 2023-03-26 at 12 04 50 AM" src="https://user-images.githubusercontent.com/86795313/227735341-40b4f8ee-c2ed-4c33-a476-c4e49b101bad.png">
+
+
+
+
+## 👨‍💻 Owner
+Made with :heart:&nbsp;  by [Aman](https://www.linkedin.com/in/aman-yadav-b25b771b7/)
