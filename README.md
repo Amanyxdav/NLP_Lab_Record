@@ -26,7 +26,4 @@ to target language(s).
 
 
 
-<img width="541" alt="Screenshot 2023-03-25 at 11 54 01 PM" src="https://user-images.githubusercontent.com/86795313/227734908-f364d0a9-b56c-4575-ab29-0f03de40d0c5.png">
-
-
-<img width="545" alt="Screenshot 2023-03-25 at 11 54 10 PM" src="https://user-images.githubusercontent.com/86795313/227734890-a22c9180-430f-4ea4-b4f3-9f30c6955691.png">
+<img width="865" alt="Screenshot 2023-03-26 at 12 04 50 AM" src="https://user-images.githubusercontent.com/86795313/227735341-40b4f8ee-c2ed-4c33-a476-c4e49b101bad.png">
