@@ -23,3 +23,8 @@ CO4 : Design and develop applications for text or information
 extraction/summarization/classification
 CO5: Apply different Machine translation techniques for translating a source
 to target language(s).
+
+[ACFrOgDMKHpbSHGqy8Yudi00QMmftkFi3SR0ENlIUeyRCNFAgcE6eeFRXxUui9dWzmZQ8SXmM2YUg8PXqZnNG7bqzo6UThP6pOpqatx3OUPGnWOKspfrFEtmEVAOGDyE2zq9OftV3-f6fy4URQ7q.pdf](https://github.com/Amanyxdav/NLP_Lab_Record/files/11069770/ACFrOgDMKHpbSHGqy8Yudi00QMmftkFi3SR0ENlIUeyRCNFAgcE6eeFRXxUui9dWzmZQ8SXmM2YUg8PXqZnNG7bqzo6UThP6pOpqatx3OUPGnWOKspfrFEtmEVAOGDyE2zq9OftV3-f6fy4URQ7q.pdf)
+
+
+
