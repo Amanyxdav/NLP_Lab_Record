@@ -24,7 +24,9 @@ extraction/summarization/classification
 CO5: Apply different Machine translation techniques for translating a source
 to target language(s).
 
-[ACFrOgDMKHpbSHGqy8Yudi00QMmftkFi3SR0ENlIUeyRCNFAgcE6eeFRXxUui9dWzmZQ8SXmM2YUg8PXqZnNG7bqzo6UThP6pOpqatx3OUPGnWOKspfrFEtmEVAOGDyE2zq9OftV3-f6fy4URQ7q.pdf](https://github.com/Amanyxdav/NLP_Lab_Record/files/11069770/ACFrOgDMKHpbSHGqy8Yudi00QMmftkFi3SR0ENlIUeyRCNFAgcE6eeFRXxUui9dWzmZQ8SXmM2YUg8PXqZnNG7bqzo6UThP6pOpqatx3OUPGnWOKspfrFEtmEVAOGDyE2zq9OftV3-f6fy4URQ7q.pdf)
 
 
+<img width="541" alt="Screenshot 2023-03-25 at 11 54 01 PM" src="https://user-images.githubusercontent.com/86795313/227734908-f364d0a9-b56c-4575-ab29-0f03de40d0c5.png">
 
+
+<img width="545" alt="Screenshot 2023-03-25 at 11 54 10 PM" src="https://user-images.githubusercontent.com/86795313/227734890-a22c9180-430f-4ea4-b4f3-9f30c6955691.png">
